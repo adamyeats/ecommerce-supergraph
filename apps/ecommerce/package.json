@@ -1,0 +1,30 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "esbuild src/index.ts --bundle --platform=node --target=node18 --packages=external --format=cjs --outdir=dist",
+    "build:watch": "esbuild src/index.ts --bundle --platform=node --target=node18 --packages=external --format=cjs --outdir=dist --watch",
+    "dev": "nodemon --watch src --exec \"npm run build && npm run start\"",
+    "start": "node dist/index.js",
+    "lint": "tsc --noEmit"
+  },
+  "author": "Adam Yeats <ay@xadamy.xyz>",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.6.0",
+    "@apollo/subgraph": "^2.4.1",
+    "dataloader": "^2.2.2",
+    "graph": "*",
+    "graphql": "^16.6.0",
+    "graphql-tag": "^2.12.6"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "esbuild": "^0.17.15",
+    "nodemon": "^2.0.22",
+    "typescript": "^5.0.3"
+  }
+}

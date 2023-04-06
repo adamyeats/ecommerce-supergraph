@@ -1,0 +1,38 @@
+extend type Query {
+  "Get all available content blocks."
+  blocks: [ContentBlock]!
+  "Get a content block by its slug."
+  block(slug: ID!): ContentBlock
+  "Get a list of the top products."
+  topProducts: TopProducts!
+}
+
+"Represents a product."
+type Product @key(fields: "sku", resolvable: false) {
+  "The SKU of the product."
+  sku: String!
+}
+
+"Represents a content block."
+interface ContentBlock @key(fields: "slug") {
+  "The unique slug of the content block."
+  slug: ID!
+  "The title of the content block."
+  title: String!
+  "The description of the content block."
+  description: String!
+}
+
+"Represents a content block containing a list of top products."
+type TopProducts implements ContentBlock @key(fields: "slug") {
+  "The unique slug of the content block."
+  slug: ID!
+  "The title of the content block."
+  title: String!
+  "The description of the content block."
+  description: String!
+}
+
+extend schema
+  @link(url: "https://specs.apollo.dev/federation/v2.3",
+        import: ["@key"])

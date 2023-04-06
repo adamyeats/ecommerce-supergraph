@@ -1,0 +1,33 @@
+version: '3.8'
+
+services:
+  router:
+    build: 
+      context: .
+      dockerfile: packages/graph/Dockerfile
+    ports:
+      - 4000:4000
+    networks:
+      - ecommerce-supergraph
+    depends_on:
+      - content
+      - ecommerce
+    
+  content:
+    build: 
+      context: ./apps/content
+      dockerfile: Dockerfile
+    networks:
+      - ecommerce-supergraph
+    restart: unless-stopped
+
+  ecommerce:
+    build: 
+      context: ./apps/ecommerce
+      dockerfile: Dockerfile
+    networks:
+      - ecommerce-supergraph
+    restart: unless-stopped
+
+networks:
+  ecommerce-supergraph:

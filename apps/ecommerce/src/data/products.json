@@ -1,0 +1,650 @@
+[
+  {
+    "sku": "7100063714",
+    "name": "The Legend of Zelda™: Tears of the Kingdom",
+    "price": 69.99,
+    "description": "An epic adventure across the land and skies of Hyrule awaits in The Legend of Zelda™: Tears of the Kingdom for Nintendo Switch™. The adventure is yours to create in a world fueled by your imagination. In this sequel to The Legend of Zelda: Breath of the …",
+    "avg_rating": 4.36,
+    "total_sales": 581859616
+  },
+  {
+    "sku": "7700000783",
+    "name": "The Legend of Zelda™: Breath of the Wild and The Legend of Zelda™: Breath of the Wild Expansion Pass Bundle",
+    "price": 79.98,
+    "description": "The Legend of Zelda™: Breath of the Wild game packs countless hours of play into a vast world of discovery. That makes it an ideal foundation for more adventures! This special bundle comes with the full game for the Nintendo Switch™ system and the Expans…",
+    "avg_rating": 3.81,
+    "total_sales": 108058552
+  },
+  {
+    "sku": "7100038612",
+    "name": "The Legend of Zelda™: Skyward Sword HD",
+    "price": 59.99,
+    "description": "For a limited time, you can earn DOUBLE My Nintendo Gold Points on The Legend of Zelda: Skyward Sword HD. That means you can earn 10% in Gold Points*—which you can then use toward your next eligible digital game or DLC. Solve puzzles, explore dungeons, a…",
+    "avg_rating": 4.75,
+    "total_sales": 886107311
+  },
+  {
+    "sku": "7100020033",
+    "name": "The Legend of Zelda™: Link’s Awakening",
+    "price": 59.99,
+    "description": "As Link, you awaken in a strange land away from Hyrule, where animals talk and monsters roam. To uncover the truth behind your whereabouts and rouse the legendary Wind Fish, explore Koholint Island and all its trap-ridden dungeons, reimagined in stunning…",
+    "avg_rating": 4.11,
+    "total_sales": 370839136
+  },
+  {
+    "sku": "7100000025",
+    "name": "The Legend of Zelda™: Breath of the Wild",
+    "price": 59.99,
+    "description": "Forget everything you know about The Legend of Zelda games. Step into a world of discovery, exploration, and adventure in The Legend of Zelda: Breath of the Wild, a boundary-breaking new game in the acclaimed series. Travel across vast fields, through fo…",
+    "avg_rating": 5,
+    "total_sales": 653238800
+  },
+  {
+    "sku": "7100021364",
+    "name": "Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda",
+    "price": 24.99,
+    "description": "In the latest rhythmic action-adventure from Brace Yourself Games, you can enjoy the gameplay of Crypt of the Necrodancer in the setting of The Legend of Zelda series. As Link—or even as Princess Zelda—you’ll explore the randomly generated overworld and …",
+    "avg_rating": 3.69,
+    "total_sales": 606418789
+  },
+  {
+    "sku": "7100034760",
+    "name": "Hyrule Warriors: Age of Calamity",
+    "price": 59.99,
+    "description": "Join the struggle that brought Hyrule to its knees. Learn more about Zelda, the four Champions, the King of Hyrule and more through dramatic cutscenes as they try to save the kingdom from Calamity. The Hyrule Warriors: Age of Calamity game is the only wa…",
+    "avg_rating": 1.98,
+    "total_sales": 731961402
+  },
+  {
+    "sku": "7100006023",
+    "name": "Hyrule Warriors: Definitive Edition",
+    "price": 59.99,
+    "description": "Cut down enemy hordes as Legend of Zelda™ characters—in full 1080p TV mode—or in two-player on one system! Link and Zelda can battle in costumes from the Legend of Zelda: Breath of the Wild game, while Tetra and King Daphnes appear in scenes based on the…",
+    "avg_rating": 0.3,
+    "total_sales": 862901498
+  },
+  {
+    "sku": "7100012305",
+    "name": "Diablo III: Eternal Collection",
+    "price": 59.99,
+    "description": "Ages ago, angels and demons birthed your world in a forbidden union. Now they’ve come to claim it. Stand tall among Sanctuary’s meek and wicked to battle walking corpses, horrifying cultists, fallen seraphs, and the Lords of Hell. When the High Heavens a…",
+    "avg_rating": 1.13,
+    "total_sales": 446604442
+  },
+  {
+    "sku": "7100001369",
+    "name": "The Elder Scrolls V: Skyrim",
+    "price": 59.99,
+    "description": "Winner of more than 200 Game of the Year awards, The Elder Scrolls V: Skyrim, the open-world masterpiece where you can be anyone and do anything, now allows you to go anywhere – at home or on the go. Skyrim® brings to life a complete virtual world for yo…",
+    "avg_rating": 4.55,
+    "total_sales": 774625464
+  },
+  {
+    "sku": "7700000041",
+    "name": "The Legend of Zelda: Breath of the Wild Expansion Pass",
+    "price": 19.99,
+    "description": "The expansion pass includes DLC Pack 1: The Master Trials and DLC Pack 2: The Champions' Ballad. Expansion Pass Bonus • Three treasure chests with in-game clothing exclusive to the expansion pass will be added to the Great Plateau. DLC Pack 1: The Master…",
+    "avg_rating": 4.01,
+    "total_sales": 149031184
+  },
+  {
+    "sku": "7700010945",
+    "name": "Cadence of Hyrule: Crypt of the NecroDancer featuring The Legend of Zelda + Cadence of Hyrule Season Pass",
+    "price": 39.98,
+    "description": "Explore the randomly generated overworld and dungeons on a quest to save Hyrule. Use a combination of iconic Legend of Zelda™ series items and spells from the Crypt of the NecroDancer as you learn and react to enemy patterns. Stay one step ahead of each …",
+    "avg_rating": 1.98,
+    "total_sales": 173819475
+  },
+  {
+    "sku": "7700013723",
+    "name": "Mario Kart™ 8 Deluxe – Booster Course Pass",
+    "price": 24.99,
+    "description": "A total of 48 more courses from throughout the Mario Kart™ series are racing to the Mario Kart 8 Deluxe game as paid DLC*. Take in the sights and speed through courses based on real-world locations like Tour London Loop and Tour New York Minute. This DLC…",
+    "avg_rating": 3.34,
+    "total_sales": 669876597
+  },
+  {
+    "sku": "7100042934",
+    "name": "Mario Party™ Superstars",
+    "price": 59.99,
+    "description": "Calling all superstars! The Mario Party™ series is back with 5 classic boards from the Nintendo 64 Mario Party games. Race to get the most stars (and sabotage your opponents) on boards like the stellar Space Land or the spooky Horror Land! Party at your …",
+    "avg_rating": 3.4,
+    "total_sales": 316618841
+  },
+  {
+    "sku": "7100049936",
+    "name": "Mario Strikers™: Battle League",
+    "price": 59.99,
+    "description": "Introducing Strike, a 5-on-5, soccer-like sport with no rules—do whatever it takes to win! Get gritty and try to score the most goals by tackling enemies, using items, and pulling off score-boosting special shots. Super Mario series mainstays like Peach,…",
+    "avg_rating": 3.3,
+    "total_sales": 689905678
+  },
+  {
+    "sku": "7100038622",
+    "name": "Mario Golf™: Super Rush",
+    "price": 59.99,
+    "description": "For a limited time, you can earn DOUBLE My Nintendo Gold Points on Mario Golf: Super Rush. That means you can earn 10% in Gold Points*—which you can then use toward your next eligible digital game or DLC. Golf with a Mushroom Kingdom twist! Hit the green…",
+    "avg_rating": 3.7,
+    "total_sales": 799068303
+  },
+  {
+    "sku": "7100003889",
+    "name": "Mario Tennis™ Aces",
+    "price": 59.99,
+    "description": "Unleash an arsenal of shots and strategies in all-out tennis battles with friends, family, and fan-favorite Mushroom Kingdom characters. Whether you play locally,* online,** or using simple motion controls, intense rallies await! In Adventure mode, exper…",
+    "avg_rating": 4.77,
+    "total_sales": 563754638
+  },
+  {
+    "sku": "7100000153",
+    "name": "Mario Kart™ 8 Deluxe",
+    "price": 59.99,
+    "description": "Burn rubber across Mushroom Kingdom raceways—underwater, in the sky, upside-down in zero-g, and past the finish—for the win! Get revved up for local multiplayer*, online** in-game tournaments, a revamped battle mode, and more! Stay fresh in the Mario Kar…",
+    "avg_rating": 2.44,
+    "total_sales": 821576864
+  },
+  {
+    "sku": "7100035797",
+    "name": "MARIO + RABBIDS SPARKS OF HOPE",
+    "price": 59.99,
+    "description": "MARIO + RABBIDS SPARKS OF HOPE ",
+    "avg_rating": 1.63,
+    "total_sales": 726183441
+  },
+  {
+    "sku": "112735",
+    "name": "Mario Kart Live: Home Circuit™ - Luigi Set",
+    "price": 99.99,
+    "description": "Race a real-world Mario Kart™ through your home using the Nintendo Switch™ system to control your kart and watch as it reacts to what’s happening in game.",
+    "avg_rating": 0.28,
+    "total_sales": 831192779
+  },
+  {
+    "sku": "112728",
+    "name": "Mario Kart Live: Home Circuit™ - Mario Set",
+    "price": 99.99,
+    "description": "Control a real-life Mario Kart with Nintendo Switch and watch it come to life in the game as well as turn your home into a real-life Mario Kart circuit",
+    "avg_rating": 2.85,
+    "total_sales": 188467915
+  },
+  {
+    "sku": "7100019616",
+    "name": "Mario & Sonic at the Olympic Games Tokyo 2020",
+    "price": 59.99,
+    "description": "Team up with Mario™, Sonic, and friends on Nintendo Switch™ in action-packed sporting events! Bring your best moves to the track, the gym, the ring, or the water in dozens of different party games everyone will enjoy.   Skateboard, surf, and race your wa…",
+    "avg_rating": 0.92,
+    "total_sales": 763745054
+  },
+  {
+    "sku": "7100000819",
+    "name": "Mario + Rabbids® Kingdom Battle",
+    "price": 39.99,
+    "description": "Two worlds collide in Mario + Rabbids® Kingdom Battle! The Mushroom Kingdom has been torn apart by a mysterious vortex, transporting the chaotic Rabbids into this once-peaceful land. To restore order, Mario, Luigi, Princess Peach, and Yoshi must team up …",
+    "avg_rating": 3.04,
+    "total_sales": 240876365
+  },
+  {
+    "sku": "7100034439",
+    "name": "Super Mario™ 3D World + Bowser’s Fury",
+    "price": 59.99,
+    "description": "Pounce and climb through dozens of colorful courses! Multiply the fun by teaming up with or competing against friends locally* or online** to reach each stage’s goal. Work together to explore and uncover collectibles, or compete for the crown by earning …",
+    "avg_rating": 3.91,
+    "total_sales": 693925294
+  },
+  {
+    "sku": "7100029726",
+    "name": "Paper Mario™: The Origami King",
+    "price": 59.99,
+    "description": "The kingdom has been ravaged by an origami menace! Join Mario and his new partner, Olivia, as they battle evil Folded Soldiers, repair the damaged landscape, and try to free Princess Peach’s castle from the clutches of King Olly in this comedy-filled adv…",
+    "avg_rating": 0.1,
+    "total_sales": 418109402
+  },
+  {
+    "sku": "7100018694",
+    "name": "Super Mario Maker™ 2",
+    "price": 59.99,
+    "description": "Mario fans of the world, unite! Now you can play, create, and share* the side-scrolling Super Mario™ courses of your dreams in the Super Mario Maker™ 2 game, available exclusively on the Nintendo Switch™ system! Dive into the single-player Story Mode and…",
+    "avg_rating": 4.85,
+    "total_sales": 640609526
+  },
+  {
+    "sku": "7100014158",
+    "name": "Super Mario Party™",
+    "price": 59.99,
+    "description": "Turn the tables on opponents as you race across the board to collect the most stars in the original four-player* Mario Party series board game mode—now with newly-added online play.** Join the full-on frenzy with friends and family!  Party it up with 80 …",
+    "avg_rating": 4.94,
+    "total_sales": 281427752
+  },
+  {
+    "sku": "7100001130",
+    "name": "Super Mario Odyssey™",
+    "price": 59.99,
+    "description": "Explore incredible places far from the Mushroom Kingdom as you join Mario and his new ally Cappy on a massive, globe-trotting 3D adventure. Use amazing new abilities—like the power to capture and control objects, animals, and enemies—to collect Power Moo…",
+    "avg_rating": 2.66,
+    "total_sales": 491565907
+  },
+  {
+    "sku": "7100006411",
+    "name": "New Super Mario Bros.™ U Deluxe",
+    "price": 59.99,
+    "description": "Join Mario, Luigi, and pals for single-player or multiplayer fun anytime, anywhere! Take on two family-friendly, side-scrolling adventures with up to three friends* as you try to save the Mushroom Kingdom. Includes the New Super Mario Bros. U and harder,…",
+    "avg_rating": 1.97,
+    "total_sales": 552986930
+  },
+  {
+    "sku": "7100000917",
+    "name": "Arcade Archives Mario Bros.",
+    "price": 7.99,
+    "description": "Mario Bros. is an action game released by Nintendo in 1983.  It's the first game that used “Mario” in the title.  Control Mario or Luigi in order to punch the enemies coming out of pipes from below to turn them over and then defeat them. In the two-playe…",
+    "avg_rating": 4.51,
+    "total_sales": 71919140
+  },
+  {
+    "sku": "7100001620",
+    "name": "Luigi’s Mansion™ 3",
+    "price": 59.99,
+    "description": "Luigi’s invited to the towering Last Resort hotel, but when Mario and friends go missing, our green-clad hero will have to conquer his fears to save them! Slam, blow away, and vacuum up ghosts with the all-new Poltergust G-00, and join forces with Gooigi…",
+    "avg_rating": 3.29,
+    "total_sales": 764462528
+  },
+  {
+    "sku": "7100020033",
+    "name": "The Legend of Zelda™: Link’s Awakening",
+    "price": 59.99,
+    "description": "As Link, you awaken in a strange land away from Hyrule, where animals talk and monsters roam. To uncover the truth behind your whereabouts and rouse the legendary Wind Fish, explore Koholint Island and all its trap-ridden dungeons, reimagined in stunning…",
+    "avg_rating": 4.59,
+    "total_sales": 266756721
+  },
+  {
+    "sku": "7100000734",
+    "name": "Yoshi’s Crafted World™",
+    "price": 59.99,
+    "description": "Jump into a new Yoshi adventure in a world made of everyday objects—like boxes and paper cups! As Yoshi, you’ll leap up high, gulp down enemies, and set out on a treasure hunt to find all the different collectables. On the flip side, stages can be played…",
+    "avg_rating": 1.09,
+    "total_sales": 666053635
+  },
+  {
+    "sku": "7100012332",
+    "name": "Super Smash Bros.™ Ultimate",
+    "price": 59.99,
+    "description": "For a limited time, you can earn DOUBLE My Nintendo Gold Points on Super Smash Bros. Ultimate. That means you can earn 10% in Gold Points*—which you can then use toward your next eligible digital game or DLC. New characters and stages join the entire leg…",
+    "avg_rating": 0.35,
+    "total_sales": 959309615
+  },
+  {
+    "sku": "7100002722",
+    "name": "Captain Toad™: Treasure Tracker",
+    "price": 39.99,
+    "description": "Captain Toad stars in his own puzzling quest on the Nintendo Switch™ system! Our stubby hero must dodge dangers and track treasures across many trap-filled courses. Survive smoldering volcanoes, hazardous steam engines, haunted houses, and even new cours…",
+    "avg_rating": 1.8,
+    "total_sales": 617610358
+  },
+  {
+    "sku": "7100028433",
+    "name": "Arcade Archives VS. WRECKING CREW",
+    "price": 7.99,
+    "description": "\"VS. WRECKING CREW\" is an action game released by Nintendo in 1984. Play as Mario or Luigi and break down designated walls to demolish buildings. Be warned, however, the buildings are home to monsters, and they wander around the floors to bother player's…",
+    "avg_rating": 2.26,
+    "total_sales": 721627037
+  },
+  {
+    "sku": "7100014814",
+    "name": "Arcade Archives DONKEY KONG JR.",
+    "price": 7.99,
+    "description": "“DONKEY KONG JR.” is an action game released by Nintendo in 1982. Donkey Kong has been captured and caged in his latest encounter with Mario. Donkey Kong Jr. is on his way to set him free! Skillfully utilize jumps and the cranes to avoid enemies, get to …",
+    "avg_rating": 1.91,
+    "total_sales": 341492123
+  },
+  {
+    "sku": "7100012257",
+    "name": "Taiko no Tatsujin: Drum 'n' Fun!",
+    "price": 49.99,
+    "description": "• Shake the Joy-Con™ controller using the Drumstick Grip!  Swing down the Joy-Con™ to make a DON and diagonally to make a KA. HD rumble makes you feel like you're really hitting a drum!   • Featuring special characters!  They will help you with DONs and …",
+    "avg_rating": 4.28,
+    "total_sales": 731489446
+  },
+  {
+    "sku": "7700016659",
+    "name": "Mario Kart™ 8 Deluxe Bundle (Game + Booster Course Pass)",
+    "price": 84.98,
+    "description": "With a paid Nintendo Switch Online + Expansion Pack membership, you can download and play the add-on content included in this bundle at no additional cost. Full version of game required to use DLC. Burn rubber across Mushroom Kingdom raceways—underwater,…",
+    "avg_rating": 4.43,
+    "total_sales": 692237963
+  },
+  {
+    "sku": "7700014385",
+    "name": "MARIO + RABBIDS SPARKS OF HOPE - Season Pass",
+    "price": 29.99,
+    "description": "The season pass contains upcoming DLC packs, including additional story content featuring new characters, quests, and battles.  Also includes the Galactic Prestige Pack to help you save the galaxy in style!",
+    "avg_rating": 3.59,
+    "total_sales": 711410844
+  },
+  {
+    "sku": "7700014384",
+    "name": "Mario + Rabbids® Sparks of Hope Gold Edition",
+    "price": 89.99,
+    "description": "Mario + Rabbids® Sparks of Hope Gold Edition ",
+    "avg_rating": 4.37,
+    "total_sales": 280754588
+  },
+  {
+    "sku": "7500000704",
+    "name": "Mario + Rabbids® Kingdom Battle Donkey Kong Adventure",
+    "price": 14.99,
+    "description": "Embark on an epic battle against Rabbid Kong, who takes over a mysterious island. Donkey Kong, Rabbid Peach, and a moody new Rabbid hero, Rabbid Cranky, team up on a journey across four brand-new environments. Discover a world of tactical gameplay and se…",
+    "avg_rating": 4.25,
+    "total_sales": 715351244
+  },
+  {
+    "sku": "7700000521",
+    "name": "Mario + Rabbids Kingdom Battle Gold Edition",
+    "price": 59.99,
+    "description": "Two worlds collide in Mario + Rabbids® Kingdom Battle! Gold Edition includes game and season pass: • 8 new solo challenges + 5 co-op maps • 16 new weapons. • An exclusive world featuring a new hero, coming in early 2018. The Mushroom Kingdom has been tor…",
+    "avg_rating": 1.76,
+    "total_sales": 585713683
+  },
+  {
+    "sku": "7500000703",
+    "name": "Mario + Rabbids Kingdom Battle Ultra Challenge Pack",
+    "price": 6.99,
+    "description": "The Ultra Challenge Pack will put you to the test with: 8 new ultra-hard challenges inside each world’s Secret chapter 5 exclusive co-op maps   Gather your heroes and dive into eight new Ultra Hard Challenges to prove your worth!  In addition, a gust of …",
+    "avg_rating": 0.76,
+    "total_sales": 790125665
+  },
+  {
+    "sku": "7500000702",
+    "name": "Mario + Rabbids® Kingdom Battle : Pixel Pack",
+    "price": 2.99,
+    "description": "Unlock 8 unique Pixel-style weapons for your heroes!",
+    "avg_rating": 3.5,
+    "total_sales": 914609501
+  },
+  {
+    "sku": "7700000121",
+    "name": "Mario + Rabbids® Kingdom Battle : Season Pass",
+    "price": 19.99,
+    "description": "Continue your journey through the twisted Mushroom Kingdom with the Mario + Rabbids Kingdom Battle Season Pass. Get access to exclusive weapons and 2 DLC packs as they’re released. Get the Steampunk Pack, exclusively with the season pass, which includes …",
+    "avg_rating": 1.18,
+    "total_sales": 625182327
+  },
+  {
+    "sku": "7100042929",
+    "name": "WarioWare™: Get It Together!",
+    "price": 49.99,
+    "description": "Take on over 200 quick and quirky microgames—solo or with friends*! What is a microgame? First, choose from a kooky crew of characters, each with their own distinct abilities. Then, short-and-sweet instructions will appear on screen. Finally, use your ch…",
+    "avg_rating": 3.63,
+    "total_sales": 582277841
+  },
+  {
+    "sku": "7100053971",
+    "name": "Pokémon™ Violet",
+    "price": 59.99,
+    "description": "The newest chapters in the Pokémon™  series, the Pokémon Scarlet and Pokémon Violet games, are coming to the Nintendo Switch™ system later this year. Catch, battle, and train Pokémon in the Paldea Region, a vast land filled with lakes, towering peaks, wa…",
+    "avg_rating": 1.25,
+    "total_sales": 662631991
+  },
+  {
+    "sku": "7100039945",
+    "name": "Pokémon™ Legends: Arceus",
+    "price": 59.99,
+    "description": "Get ready for a new kind of grand, Pokémon adventure in Pokémon™ Legends: Arceus, a brand-new game from Game Freak that blends action and exploration with the RPG roots of the Pokémon series. Embark on survey missions in the ancient Hisui region. Explore…",
+    "avg_rating": 0.89,
+    "total_sales": 139978487
+  },
+  {
+    "sku": "7100053966",
+    "name": "Pokémon™ Scarlet",
+    "price": 59.99,
+    "description": "The newest chapters in the Pokémon™ series, the Pokémon Scarlet and Pokémon Violet games, are coming to the Nintendo Switch™ system later this year. Catch, battle, and train Pokémon in the Paldea Region, a vast land filled with lakes, towering peaks, was…",
+    "avg_rating": 3.89,
+    "total_sales": 758651633
+  },
+  {
+    "sku": "7100039950",
+    "name": "Pokémon™ Brilliant Diamond",
+    "price": 59.99,
+    "description": "Experience the nostalgic story from the Pokémon™ Diamond Version game in a reimagined adventure, Pokémon Brilliant Diamond, now on the Nintendo Switch™ system! Adventures in the Pokémon Brilliant Diamond game will take place in the familiar Sinnoh region…",
+    "avg_rating": 0.93,
+    "total_sales": 980253231
+  },
+  {
+    "sku": "7700014505",
+    "name": "Pokémon™ Scarlet and Pokémon™ Violet Double Pack",
+    "price": 119.99,
+    "description": "Important: The downloadable version of this double pack includes digital versions of both the Pokémon Scarlet game and the Pokémon Violet game, and both games will be automatically downloaded to the system tied to the Nintendo Account that made the purch…",
+    "avg_rating": 0.51,
+    "total_sales": 655055675
+  },
+  {
+    "sku": "7100039955",
+    "name": "Pokémon™ Shining Pearl",
+    "price": 59.99,
+    "description": "Experience the nostalgic story from the Pokémon™ Pearl Version game in a reimagined adventure, Pokémon Shining Pearl, now on the Nintendo Switch™ system! Adventures in the Pokémon Shining Pearl game will take place in the familiar Sinnoh region. Rich in …",
+    "avg_rating": 1.73,
+    "total_sales": 304188574
+  },
+  {
+    "sku": "7100012523",
+    "name": "Pokémon Mystery Dungeon™: Rescue Team DX",
+    "price": 59.99,
+    "description": "What if you woke up one day, and you were a Pokémon? You can meet and recruit over 400 Pokémon in a dungeon-crawling adventure within their world! Build a rescue team to take on mysterious, changing dungeons and strategically plan your moves as you ventu…",
+    "avg_rating": 2.46,
+    "total_sales": 406032723
+  },
+  {
+    "sku": "7100026262",
+    "name": "Pokémon Sword and Pokémon Shield Double Pack Digital Version",
+    "price": 119.99,
+    "description": "If you purchase the Pokémon Sword and Pokémon Shield Double Pack Digital Version, you will receive a bonus of Dynamax Crystals! The digital version of the Pokémon Sword and Pokémon Shield Double Pack includes an automatic download of the Pokémon Sword ga…",
+    "avg_rating": 0.24,
+    "total_sales": 813449232
+  },
+  {
+    "sku": "7100004496",
+    "name": "Pokémon™ Sword",
+    "price": 59.99,
+    "description": "A new generation of Pokémon is coming to the Nintendo Switch™ system. Begin your adventure as a Pokémon Trainer by choosing one of three new partner Pokémon: Grookey, Scorbunny, or Sobble. Then embark on a journey in the new Galar region, where you’ll ch…",
+    "avg_rating": 1.37,
+    "total_sales": 245244225
+  },
+  {
+    "sku": "7100004492",
+    "name": "Pokémon™ Shield",
+    "price": 59.99,
+    "description": "A new generation of Pokémon is coming to the Nintendo Switch™ system. Begin your adventure as a Pokémon Trainer by choosing one of three new partner Pokémon: Grookey, Scorbunny, or Sobble. Then embark on a journey in the new Galar region, where you’ll ch…",
+    "avg_rating": 2.33,
+    "total_sales": 951331583
+  },
+  {
+    "sku": "7100000450",
+    "name": "Pokémon™: Let’s Go, Eevee!",
+    "price": 59.99,
+    "description": "Partner up with Eevee to catch and collect Pokémon on a rich and vibrant adventure in the Pokémon™: Let’s Go, Eevee! game – available now on the Nintendo Switch™ system! Become the best Pokémon Trainer you can be as you battle other Trainers, Gym Leaders…",
+    "avg_rating": 2.36,
+    "total_sales": 82849458
+  },
+  {
+    "sku": "7100000447",
+    "name": "Pokémon™: Let’s Go, Pikachu!",
+    "price": 59.99,
+    "description": "Partner up with Pikachu to catch and collect Pokémon on a rich and vibrant adventure in the Pokémon™: Let’s Go, Pikachu! game – available now on the Nintendo Switch™ system! Become the best Pokémon Trainer you can be as you battle other Trainers, Gym Lea…",
+    "avg_rating": 3.23,
+    "total_sales": 589642662
+  },
+  {
+    "sku": "117512",
+    "name": "Pokémon™ Scarlet & Pokémon™ Violet Double Pack",
+    "price": 119.99,
+    "description": "Pokemon Scarlet and Violet Double Pack",
+    "avg_rating": 0.91,
+    "total_sales": 238651457
+  },
+  {
+    "sku": "7100037989",
+    "name": "New Pokémon Snap™",
+    "price": 59.99,
+    "description": "For a limited time, you can earn DOUBLE My Nintendo Gold Points on New Pokémon Snap. That means you can earn 10% in Gold Points*—which you can then use toward your next eligible digital game or DLC. Explore lush scenery on unknown islands to snap photos …",
+    "avg_rating": 0.85,
+    "total_sales": 894559140
+  },
+  {
+    "sku": "7100001132",
+    "name": "Pokkén Tournament™ DX",
+    "price": 59.99,
+    "description": "Introducing the first Pokémon title for the Nintendo Switch console. Take direct control of one of 21 prized Pokémon fighters to defeat other Pokémon in arena fights. Call upon Support Pokémon to assist in the fight, then unleash your Pokémon's unique Bu…",
+    "avg_rating": 4.07,
+    "total_sales": 408882781
+  },
+  {
+    "sku": "7700012398",
+    "name": "Pokémon™ Brilliant Diamond and Pokémon™ Shining Pearl Double Pack",
+    "price": 119.99,
+    "description": "A double pack containing the Pokémon Brilliant Diamond and Pokémon Shining Pearl games are also available for purchase as a packaged version or as a digital downloadable version. The packaged version includes 1 physical Pokémon Brilliant Diamond game and…",
+    "avg_rating": 0.1,
+    "total_sales": 919402901
+  },
+  {
+    "sku": "7700009706",
+    "name": "Pokémon Shield + Expansion Pass",
+    "price": 89.98,
+    "description": "A set including the Pokémon Shield game as well as an expansion pass which will allow you access to all downloadable content once it is released. The physical version of the Pokémon Shield + Expansion Pass bundle (available on 11/6/2020) includes a purch…",
+    "avg_rating": 2.77,
+    "total_sales": 46954938
+  },
+  {
+    "sku": "7700009705",
+    "name": "Pokémon Shield Expansion Pass",
+    "price": 29.99,
+    "description": "Your adventure continues with the Pokémon Shield Expansion Pass, containing new stories to experience, new Pokémon to encounter, and new Wild Areas to explore! You’ll even meet new and returning Legendary Pokémon along the way! The Expansion Pass contain…",
+    "avg_rating": 4.23,
+    "total_sales": 564443024
+  },
+  {
+    "sku": "7700009668",
+    "name": "Pokémon Sword + Expansion Pass",
+    "price": 89.98,
+    "description": "A set including the Pokémon Sword game as well as an expansion pass which will allow you access to all downloadable content once it is released. The physical version of the Pokémon Sword + Expansion Pass bundle (available on 11/6/2020) includes a purchas…",
+    "avg_rating": 0.11,
+    "total_sales": 727517985
+  },
+  {
+    "sku": "7700009666",
+    "name": "Pokémon Sword Expansion Pass",
+    "price": 29.99,
+    "description": "Your adventure continues with the Pokémon Sword Expansion Pass, containing new stories to experience, new Pokémon to encounter, and new Wild Areas to explore! You’ll even meet new and returning Legendary Pokémon along the way! The Expansion Pass contains…",
+    "avg_rating": 4.71,
+    "total_sales": 248927768
+  },
+  {
+    "sku": "7500010425",
+    "name": "Taiko no Tatsujin: Drum 'n' Fun! Pokémon: Let's Go, Pikachu! and Pokémon: Let's Go, Eevee!",
+    "price": 1.49,
+    "description": "This is DLC you can play in Taiko Mode. *Song: \"Pokémon: Let's Go, Pikachu! and Pokémon: Let's Go, Eevee!\" Easy: ★2 Normal: ★2 Hard: ★5 Extreme: ★7",
+    "avg_rating": 3.11,
+    "total_sales": 261010157
+  },
+  {
+    "sku": "7500010423",
+    "name": "Taiko no Tatsujin: Drum 'n' Fun! Mezase Pokémon Master -20th Anniversary-",
+    "price": 1.49,
+    "description": "This is DLC you can play in Taiko Mode. *Song: \"Mezase Pokémon Master -20th Anniversary-\" Easy: ★2 Normal: ★4 Hard: ★6 Extreme: ★8",
+    "avg_rating": 2.34,
+    "total_sales": 341544317
+  },
+  {
+    "sku": "7100058797",
+    "name": "Kirby’s Return to Dream Land™ Deluxe",
+    "price": 59.99,
+    "description": "Kirby’s Return to Dream Land™ Deluxe ",
+    "avg_rating": 2.6,
+    "total_sales": 101092910
+  },
+  {
+    "sku": "7100046405",
+    "name": "Kirby™ and the Forgotten Land",
+    "price": 59.99,
+    "description": "Float off on an all-new adventure as the powerful puffball, Kirby. Explore in 3D stages as you discover a mysterious world with abandoned structures from a past civilization—like a shopping mall?! Copy enemies’ abilities like the new Drill and Ranger and…",
+    "avg_rating": 0.43,
+    "total_sales": 400576641
+  },
+  {
+    "sku": "7100056620",
+    "name": "Kirby’s Dream Buffet™",
+    "price": 14.99,
+    "description": "Roll through a smorgasbord of food-themed stages in 4 rounds of 4-player fun as Kirby...who seems rounder than usual? Race through delicious obstacle courses to collect strawberries as Kirby grows. Then, turn the tides in the final round—a fruity fight a…",
+    "avg_rating": 4.56,
+    "total_sales": 594200384
+  },
+  {
+    "sku": "7100002365",
+    "name": "Kirby™ Star Allies",
+    "price": 59.99,
+    "description": "When a new evil threatens Planet Popstar, Kirby will need a little help from his...enemies?! By making friends out of foes, up to three* players can drop in or out of the adventure at any time. With new and expanded copy abilities, classic Kirby action i…",
+    "avg_rating": 1.31,
+    "total_sales": 568619883
+  },
+  {
+    "sku": "7100012257",
+    "name": "Taiko no Tatsujin: Drum 'n' Fun!",
+    "price": 49.99,
+    "description": "• Shake the Joy-Con™ controller using the Drumstick Grip!  Swing down the Joy-Con™ to make a DON and diagonally to make a KA. HD rumble makes you feel like you're really hitting a drum!   • Featuring special characters!  They will help you with DONs and …",
+    "avg_rating": 3.12,
+    "total_sales": 409785319
+  },
+  {
+    "sku": "7100063709",
+    "name": "Metroid Prime™ Remastered",
+    "price": 39.99,
+    "description": "Metroid Prime™ Remastered ",
+    "avg_rating": 3.2,
+    "total_sales": 217390297
+  },
+  {
+    "sku": "7100042924",
+    "name": "Metroid™ Dread",
+    "price": 59.99,
+    "description": "For a limited time, you can earn DOUBLE My Nintendo Gold Points on Metroid Dread. That means you can earn 10% in Gold Points*—which you can then use toward your next eligible digital game or DLC. Join bounty hunter Samus Aran as she tries to escape a dea…",
+    "avg_rating": 2.19,
+    "total_sales": 315382730
+  },
+  {
+    "sku": "7100012332",
+    "name": "Super Smash Bros.™ Ultimate",
+    "price": 59.99,
+    "description": "For a limited time, you can earn DOUBLE My Nintendo Gold Points on Super Smash Bros. Ultimate. That means you can earn 10% in Gold Points*—which you can then use toward your next eligible digital game or DLC. New characters and stages join the entire leg…",
+    "avg_rating": 3.06,
+    "total_sales": 815837636
+  },
+  {
+    "sku": "7100001109",
+    "name": "Bayonetta™",
+    "price": 29.99,
+    "description": "Bayonetta is a butt-kicking, havoc-wreaking witch, and she’ll shoot, whip, slice, and burn angels as she uncovers the truth about her own past. Her weapons and moves are all stylishly over-the-top, but she can also dodge attacks to slow down time, and in…",
+    "avg_rating": 3.15,
+    "total_sales": 348375340
+  },
+  {
+    "sku": "7100027619",
+    "name": "Animal Crossing™: New Horizons",
+    "price": 59.99,
+    "description": "Escape to a deserted island and create your own paradise as you explore, create, and customize in the Animal Crossing: New Horizons game. Your island getaway has a wealth of natural resources that can be used to craft everything from tools to creature co…",
+    "avg_rating": 0.47,
+    "total_sales": 362500438
+  },
+  {
+    "sku": "7500030669",
+    "name": "Animal Crossing™: New Horizons - Happy Home Paradise",
+    "price": 24.99,
+    "description": "Join Lottie’s Paradise Planning team and travel to a distant group of beautiful resort islands with a diverse set of landscapes. This time, you are in charge of inviting characters as clients and helping them live out their own dream vacations. Choose fr…",
+    "avg_rating": 3.93,
+    "total_sales": 412670492
+  },
+  {
+    "sku": "7700016660",
+    "name": "Animal Crossing™: New Horizons Bundle (Game + DLC)",
+    "price": 84.98,
+    "description": "With a paid Nintendo Switch Online + Expansion Pack membership, you can download and play the add-on content included in this bundle at no additional cost. Full version of game required to use DLC. Escape to your very own paradise in this bundle that inc…",
+    "avg_rating": 4.01,
+    "total_sales": 869298992
+  }
+]

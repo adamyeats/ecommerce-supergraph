@@ -1,0 +1,30 @@
+extend type Query {
+  "Get a product by its SKU."
+  product(sku: String!): Product
+  "Get a list of products."
+  products(limit: Int, offset: Int = 0): [Product!]!
+}
+
+"Represents a product."
+type Product @key(fields: "sku") {
+  "The SKU of the product."
+  sku: String!
+  "The name of the product."
+  name: String!
+  "The price of the product."
+  price: Float!
+  "The description of the product."
+  description: String!
+}
+
+"Represents a content block containing a list of top products."
+type TopProducts @key(fields: "slug") {
+  "The unique slug of the content block."
+  slug: ID!
+  "The list of products."
+  products(limit: Int = 10): [Product!]!
+}
+
+extend schema
+  @link(url: "https://specs.apollo.dev/federation/v2.3",
+        import: ["@key"])
