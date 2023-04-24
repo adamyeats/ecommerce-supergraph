@@ -24,6 +24,6 @@
   },
   "dependencies": {
     "graphql": "^16.6.0",
-    "yaml": "^2.2.1"
+    "yaml": "^2.2.2"
   }
 }
