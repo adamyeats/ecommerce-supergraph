@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   router:
-    build: 
+    build:
       context: .
       dockerfile: packages/graph/Dockerfile
     ports:
@@ -12,9 +12,9 @@ services:
     depends_on:
       - content
       - ecommerce
-    
+
   content:
-    build: 
+    build:
       context: ./apps/content
       dockerfile: Dockerfile
     networks:
@@ -22,7 +22,7 @@ services:
     restart: unless-stopped
 
   ecommerce:
-    build: 
+    build:
       context: ./apps/ecommerce
       dockerfile: Dockerfile
     networks:
