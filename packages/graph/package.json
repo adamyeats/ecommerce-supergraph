@@ -7,10 +7,9 @@
   "scripts": {
     "build": "npm run build:supergraph && npm run build:codegen",
     "build:codegen": "graphql-codegen",
-    "build:supergraph": "node scripts/config-gen.mjs && node scripts/prepare-schemas.mjs && rover supergraph compose --config config/supergraph.yaml > tmp/supergraph.graphql",
+    "build:supergraph": "mkdir -p tmp/ && node scripts/config-gen.mjs && node scripts/prepare-schemas.mjs && rover supergraph compose --config config/supergraph.yaml > tmp/supergraph.graphql",
     "dev": "./tmp/router --dev --supergraph tmp/supergraph.graphql",
     "clean": "rm -rf tmp/*",
-    "postinstall": "npm run build",
     "local-router": "curl -sSL https://router.apollo.dev/download/nix/latest | sh && mv router tmp/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
