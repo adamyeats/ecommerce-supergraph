@@ -19,7 +19,7 @@
     "@apollo/rover": "^0.16.0",
     "@graphql-codegen/cli": "^4.0.1",
     "@graphql-codegen/typescript": "^4.0.1",
-    "@graphql-codegen/typescript-resolvers": "^4.0.0"
+    "@graphql-codegen/typescript-resolvers": "^4.0.1"
   },
   "dependencies": {
     "graphql": "^16.6.0",
