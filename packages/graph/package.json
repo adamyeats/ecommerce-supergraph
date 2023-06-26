@@ -22,7 +22,7 @@
     "@graphql-codegen/typescript-resolvers": "^4.0.1"
   },
   "dependencies": {
-    "graphql": "^16.6.0",
+    "graphql": "^16.7.1",
     "yaml": "^2.3.1"
   }
 }
