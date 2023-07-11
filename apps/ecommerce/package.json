@@ -15,7 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "@apollo/server": "^4.7.5",
-    "@apollo/subgraph": "^2.4.7",
+    "@apollo/subgraph": "^2.4.9",
     "dataloader": "^2.2.2",
     "graph": "*",
     "graphql": "^16.7.1",
