@@ -14,7 +14,7 @@
   "author": "Adam Yeats <ay@xadamy.xyz>",
   "license": "ISC",
   "dependencies": {
-    "@apollo/server": "^4.7.5",
+    "@apollo/server": "^4.8.1",
     "@apollo/subgraph": "^2.4.9",
     "dataloader": "^2.2.2",
     "graph": "*",
