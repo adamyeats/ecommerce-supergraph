@@ -18,7 +18,7 @@
     "@apollo/subgraph": "^2.5.4",
     "dataloader": "^2.2.2",
     "graph": "*",
-    "graphql": "^16.7.1",
+    "graphql": "^16.8.1",
     "graphql-tag": "^2.12.6"
   },
   "devDependencies": {
