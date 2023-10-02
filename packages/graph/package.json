@@ -16,7 +16,7 @@
   "author": "Adam Yeats <ay@xadamy.xyz>",
   "license": "ISC",
   "devDependencies": {
-    "@apollo/rover": "^0.18.1",
+    "@apollo/rover": "^0.19.1",
     "@graphql-codegen/cli": "^5.0.0",
     "@graphql-codegen/typescript": "^4.0.1",
     "@graphql-codegen/typescript-resolvers": "^4.0.1"
