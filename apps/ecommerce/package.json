@@ -22,7 +22,7 @@
     "graphql-tag": "^2.12.6"
   },
   "devDependencies": {
-    "@types/node": "^20.10.5",
+    "@types/node": "^20.10.6",
     "esbuild": "^0.19.11",
     "nodemon": "^3.0.2",
     "typescript": "^5.3.3"
